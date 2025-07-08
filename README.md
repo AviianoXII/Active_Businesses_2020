@@ -1,7 +1,7 @@
 # LA Business Insights Dashboard (1921–2025)
 
 
-This analyze insights from a dataset of over 586,000 registered businesses in the City of Los Angeles, the Interactive Power BI dashboard can be found [here](https://app.powerbi.com/links/fshtnl4oWd?ctid=d73c3455-2ff8-4748-95c8-611e0bf264e1&pbi_source=linkShare),  and Kaggle notebook [here](https://www.kaggle.com/code/xiiaviiano/listing-of-active-biz-2020) 
+This analyzes insights from a dataset of over 586,000 registered businesses in the City of Los Angeles, the Interactive Power BI dashboard can be found [here](https://app.powerbi.com/links/fshtnl4oWd?ctid=d73c3455-2ff8-4748-95c8-611e0bf264e1&pbi_source=linkShare),  and Kaggle notebook [here](https://www.kaggle.com/code/xiiaviiano/listing-of-active-biz-2020) 
 
 ![](https://github.com/AviianoXII/LA_Business_Insights_Dashboard/blob/main/Screenshot%20(984).png)
 
